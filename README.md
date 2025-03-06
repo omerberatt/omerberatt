@@ -1,21 +1,25 @@
-##           Hi there I'm Omer Berat Yildirim 👋
+<h1 align="center">Hi there, I'm Omer Berat Yildirim! 👋</h1>
+<h2 align="center">🚀 Software Engineering Student | Fullstack Developer | Finance & Trading Enthusiast</h2>
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/8cd25d1e-78c0-4d9d-b0b9-ef4714cc9297)
 ![212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e](https://github.com/user-attachments/assets/5c3e63e5-5b72-4c31-abff-afcc55b86289)
 
 
-🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools I Use  
 
-Programming Languages:
+| Programming Languages | Frameworks & Libraries | Databases | Version Control |
+|-----------------------|------------------------|-----------|-----------------|
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) Spring Boot | ![SQL](https://github.com/user-attachments/assets/1a2bbed9-3033-4ef2-8b1a-2086484d8365)<br> SQL | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git & GitHub |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | ![ROS2](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg) ROS2 | | |
+| ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML  ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS | Gazebo | | |
 
 
-![java (1)](https://github.com/user-attachments/assets/8a2a206b-42fd-4baf-8d91-defee11e65be) Java (★★★☆☆) - Learning & building finance projects
+## 📊 GitHub Stats  
+![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerberatt&show_icons=true&theme=radical)  
 
-![python](https://github.com/user-attachments/assets/57aad52c-de78-490b-a23e-596c57c5422c) Python (★★★★☆) - Simulations, automation, and data analysis
 
-![html-5](https://github.com/user-attachments/assets/6c7a264b-d841-4b56-bd84-a00729285bb3) HTML & CSS ![css-3](https://github.com/user-attachments/assets/3767ab55-1738-454c-8358-e488856f33cf)  (★★★★☆) - Frontend development experience
 
-Frameworks & Libraries:
+<h2 align="center">Frameworks & Libraries:</h2>
 
 MAVSDK (Python) (★★☆☆☆) - Used for PX4 flight simulations
 
@@ -23,23 +27,25 @@ ROS2 Humble (★☆☆☆☆) - Robot and drone simulation
 
 Gazebo Harmonic (★★★☆☆) - Physics-based simulations
 
-Databases:
-
-![sql-server](https://github.com/user-attachments/assets/1a2bbed9-3033-4ef2-8b1a-2086484d8365) SQL (★★★☆☆) - Experienced with database queries
+<h2 align="center">Databases:</h2>
 
 
-Development & Version Control:
-
-![social](https://github.com/user-attachments/assets/ab64a20b-bfcf-45f2-aa92-0256b221c0c8) Git & GitHub (★★★☆☆) - Used for version control and project collaboration
+ SQL (★★★☆☆) - Experienced with database queries
 
 
-Other Tools & Platforms
+<h2 align="center">Development & Version Control:</h2>
+
+Git & GitHub (★★★☆☆) - Used for version control and project collaboration
+
+
+<h2 align="center">Other Tools & Platforms</h2>
+
 
 
 PX4 Flight Stack (★★★☆☆) - Working on fixed-wing simulations
 
+<h1 align="center">👨🏻‍💻 About Me:</h1>
 
-👨🏻‍💻 About Me:
 
 💻 I'm a Software Engineering Student & Aspiring Fullstack Developer, currently exploring Finance & Trading Applications
 
