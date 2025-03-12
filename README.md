@@ -8,9 +8,9 @@
 
 | Programming Languages | Frameworks & Libraries | Databases | Version Control |
 |-----------------------|------------------------|-----------|-----------------|
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java | ![SQL](https://github.com/user-attachments/assets/1a2bbed9-3033-4ef2-8b1a-2086484d8365)<br> SQL | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git & GitHub |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | ![ROS2](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg) ROS2 | | |
-| ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML  ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS | Gazebo | | |
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java || ![SQL](https://github.com/user-attachments/assets/1a2bbed9-3033-4ef2-8b1a-2086484d8365)<br> SQL | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git & GitHub |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | | | |
+| ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML  ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS | | | |
 
 
 ## 📊 GitHub Stats  
