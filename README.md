@@ -2,14 +2,13 @@
 <h2 align="center">🚀 Software Engineering Student </h2>
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/8cd25d1e-78c0-4d9d-b0b9-ef4714cc9297)
-![212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e](https://github.com/user-attachments/assets/5c3e63e5-5b72-4c31-abff-afcc55b86289)
 
 
 ## 🛠️ Technologies and Tools I Use  
 
 | Programming Languages | Frameworks & Libraries | Databases | Version Control |
 |-----------------------|------------------------|-----------|-----------------|
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) Spring Boot | ![SQL](https://github.com/user-attachments/assets/1a2bbed9-3033-4ef2-8b1a-2086484d8365)<br> SQL | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git & GitHub |
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java | ![SQL](https://github.com/user-attachments/assets/1a2bbed9-3033-4ef2-8b1a-2086484d8365)<br> SQL | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git & GitHub |
 | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python | ![ROS2](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg) ROS2 | | |
 | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML  ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS | Gazebo | | |
 
